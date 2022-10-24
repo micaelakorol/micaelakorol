@@ -6,5 +6,5 @@
 
 - 🌱 Actualmente estoy aprendiendo: #Typescript
 - 📫 Contacto: @micaelakorol
-- ⚡ Dato curioso: Me encanta el chocolate 🍫. 
+- ⚡ Dato curioso: Me encanta el chocolate 😁. 
 
