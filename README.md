@@ -2,7 +2,7 @@
 
 😀 Soy desarrolladora front-end autodidacta. 
 🕐 En mis ratos libres me encanta codear .
-💛 Me encanta aprender cosas nuevas.
+💛 Siempre en constante aprendizaje.
 
 - 🌱 Actualmente estoy aprendiendo: #Typescript
 - 📫 Contacto: @micaelakorol
