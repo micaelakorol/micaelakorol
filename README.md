@@ -1,10 +1,9 @@
 ### Hola, soy Mica  👋
 
-😀 Soy desarrolladora front-end autodidacta. 
-🕐 En mis ratos libres me encanta codear .
+😀 Desarrolladora front-end autodidacta. 
 💛 Siempre en constante aprendizaje.
 
 - 🌱 Actualmente estoy aprendiendo: #Typescript
-- 📫 Contacto: @micaelakorol
-- ⚡ Dato curioso: Me encanta el chocolate 😁. 
+- 📫 Contacto: micaelakorol@gmail.com
+- ⚡ Portolio: https://micaelakorol.netlify.app/
 
