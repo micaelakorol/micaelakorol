@@ -5,5 +5,5 @@
 
 - 🌱 Actualmente estoy aprendiendo: #Typescript
 - 📫 Contacto: micaelakorol@gmail.com
-- ⚡ Portafolio: [[https://micaelakorol.netlify.app/](https://micaelakorol.tech/)](https://micaelakorol.tech/)
+- ⚡ Portafolio: https://micaelakorol.tech
 
