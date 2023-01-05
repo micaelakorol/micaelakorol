@@ -1,9 +1,8 @@
 ### Hola, soy Mica  👋
 
-😀 Desarrolladora front-end. 
+😀 Desarrolladora front-end React. 
 💛 Siempre en constante aprendizaje.
 
-- 🌱 Actualmente estoy aprendiendo: #Typescript
 - 📫 Contacto: micaelakorol@gmail.com
 - ⚡ Portafolio: https://micaelakorol.tech
 
