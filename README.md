@@ -1,7 +1,7 @@
 ### Hola, soy Mica  👋
 
 😀Estudiante de Analista Programador en la UNLP y Desarrolladora Front-end. <br>
-💛 Siempre en constante aprendizaje. 
+💛 Siempre en constante aprendizaje.  <br>
 📔 Actualmente aprendiendo #Python
 
 - 📫 Contacto: micaelakorol@gmail.com
