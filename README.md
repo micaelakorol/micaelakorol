@@ -1,7 +1,7 @@
-### Hola, soy Mica  👋
+### Hola, soy Micaela  👋
 
-😀Estudiante de Analista Programador en la UNLP y Desarrolladora Frontend. <br>
-💛 Siempre en constante aprendizaje.  <br>
+😀Desarrolladora Frontend con sólidas habilidades en HTML,CSS,Javascript, React. <br>
+💛Aprovecho cada oportunidad para mejorar mis habilidades y conocimientos.  <br>
 📔 Actualmente, estoy dando mis primeros pasos en el desarrollo Backend con Java.
 
 - 📫 Contacto: micaelakorol@gmail.com
