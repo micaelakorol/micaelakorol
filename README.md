@@ -1,7 +1,7 @@
 ### Hola, soy Micaela  👋
 
-😀Desarrolladora Frontend con sólidas habilidades en HTML,CSS,Javascript, React. <br>
-💛Aprovecho cada oportunidad para mejorar mis habilidades y conocimientos.  <br>
+😀Desarrolladora Frontend con habilidades en HTML,CSS,Javascript, React.  <br>
+💛Siempre dispuesta a continuar aprendiendo.  <br>
 
 - 📫 Contacto: micaelakorol@gmail.com
 - ⚡ Portafolio: https://micaelakorol.tech
