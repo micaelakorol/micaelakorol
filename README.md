@@ -4,5 +4,5 @@
 💛Siempre dispuesta a continuar aprendiendo.  <br>
 
 - 📫 Contacto: micaelakorol@gmail.com
-- ⚡ Portfolio: https://micaelakorol.tech
+- ⚡ Portfolio:https://micaelakorol.netlify.app/
 
