@@ -1,16 +1,15 @@
-### Hola, soy Micaela  👋
+# ¡Hola! 👋 Soy Micaela
 
-Estudiante de Informática y Desarrolladora Frontend con habilidades en:  <br>
-•HTML <br>
-•CSS <br>
-•Javascript <br>
-•React <br>
-•Firebase <br>
+**Estudiante de Informática y Desarrolladora Frontend**  
 
-Otros conocimientos: <br>
-•Paradigmas de Programación: POO, Imperativo, Concurrente <br>
-•Estructuras de datos: Listas,Matrices <br>
+## 💻 Habilidades Técnicas
+- **HTML**, **CSS** 
+- **JavaScript**, **React**
+- **Firebase**
 
-- 📫 Contacto: micaelakorol@gmail.com <br>
-- ⚡ Portfolio:https://micaelakorol.netlify.app/
+## 📚 Otros Conocimientos
+- **Paradigmas de Programación:** Programación Orientada a Objetos (POO), Imperativa, Concurrente  
+- **Estructuras de Datos:** Listas, Matrices  
 
+## 🌟 Portfolio
+-https://micaelakorol.netlify.app/
