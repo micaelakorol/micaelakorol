@@ -8,7 +8,7 @@
 - **Firebase**
 
 ## 📚 Otros Conocimientos
-- **Paradigmas de Programación:** Programación Orientada a Objetos (POO), Imperativa, Concurrente  
+- **Paradigmas de Programación:** Programación Orientada a Objetos (POO)
 - **Estructuras de Datos:** Listas, Matrices  
 
 ## 🌟 Portfolio
