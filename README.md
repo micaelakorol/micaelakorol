@@ -16,6 +16,6 @@
 
 ## 📫 Contacto
 
-Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/micaelakorol) o ver mis proyectos en [GitHub](https://github.com/micaelakorol).
+Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/micaelakorol) o ver mis proyectos en [Portafolio]([https://github.com/micaelakorol](https://micaelakorol.netlify.app/)).
 
 ---
