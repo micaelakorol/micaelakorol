@@ -1,14 +1,21 @@
-# ¡Hola! 👋 Soy Micaela
+🎓 Estudiante de Informática | 💻 Desarrolladora Frontend
 
-**Estudiante de Informática y Desarrolladora Frontend**  
+## 🛠️ Habilidades Técnicas
 
-## 💻 Habilidades Técnicas
-- **Frontend: HTML5, CSS3, JavaScript, React, Styled-components**
-- **Backend: Firebase**
-- **Bases de datos: SQLite**
+**Frontend**
+- HTML5, CSS3, JavaScript
+- React.js, Styled-components
+- Firebase
+  
+---
 
 ## 📚 Otros Conocimientos
-- **Paradigmas de Programación:** Programación Orientada a Objetos (POO)
 
-## 🌟 Portfolio
-- **https://micaelakorol.netlify.app/**
+- Programación Orientada a Objetos (POO)
+- Control de versiones con Git y GitHub
+
+## 📫 Contacto
+
+Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/micaelakorol) o ver mis proyectos en [GitHub](https://github.com/micaelakorol).
+
+---
