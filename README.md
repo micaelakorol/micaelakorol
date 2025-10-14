@@ -11,7 +11,6 @@
 
 ## 📚 Otros Conocimientos
 
-- Programación Orientada a Objetos (POO)
 - Control de versiones con Git y GitHub
 
 ## 📫 Contacto
