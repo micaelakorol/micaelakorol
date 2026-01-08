@@ -1,20 +1,38 @@
-🎓 Estudiante de Informática | 💻 Desarrolladora Frontend
+# 🎓 Micaela Korol | 💻 Frontend Developer
+
+Hola! Soy estudiante de Analista Programador en la UNLP con conocimientis en desarrollo web.  
+Me apasiona crear interfaces funcionales y limpias, así como aprender nuevas tecnologías de Frontend y Ciencia de Datos.
+
+---
 
 ## 🛠️ Habilidades Técnicas
 
-**Frontend**
-- HTML5, CSS3, JavaScript
-- React.js, Styled-components
+**Frontend:**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Next.js
 - Firebase
-  
+
+**Herramientas:**
+- Git & GitHub, VS Code
 ---
 
-## 📚 Otros Conocimientos
+## 🚀 Algunos de mis proyectos
 
-- Control de versiones con Git y GitHub
+- **[Serenity Template](https://serenity-english.netlify.app/)** – Landing profesional en React.js para servicios.
+- **[Herrería Javier](https://herreriajavier.netlify.app/)** – Sitio web para Herrería Javier.
+- **[Emeka Web](https://emekaweb.netlify.app/)** – Sitio web profesional.
+
+---
 
 ## 📫 Contacto
 
-Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/micaelakorol) o ver mis proyectos en [Mi portafolio](https://micaelakorol.netlify.app/).
+- LinkedIn: [Micaela Korol](https://www.linkedin.com/in/micaelakorol)  
+- Portafolio: [micaelakorol.netlify.app](https://micaelakorol.netlify.app/)  
+- Email: micaelakorol@email.com  
 
 ---
+
+## ⚡ Actualmente Aprendiendo
+
+- Ciencia de Datos y ML básico
