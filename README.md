@@ -1,8 +1,4 @@
-# 🎓 Micaela Korol | 💻 Frontend Developer
-
-Hola! Soy estudiante de Analista Programador en la UNLP con conocimientis en desarrollo web.  
-Me apasiona crear interfaces funcionales y limpias, así como aprender nuevas tecnologías de Frontend y Ciencia de Datos.
-
+### Estudiante de Analista Programador en la UNLP con conocimientos en desarrollo web frontend.  
 ---
 
 ## 🛠️ Habilidades Técnicas
