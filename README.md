@@ -1,4 +1,4 @@
-### Estudiante de Analista Programador en la UNLP con conocimientos en desarrollo web frontend.  
+### ¡Hola! Soy Micaela, desarrolladora frontend.
 ---
 
 ## 🛠️ Habilidades Técnicas
