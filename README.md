@@ -6,6 +6,7 @@ Mis Habilidades:
 - Next.js
 - Firebase
 - Python
+- SQL
   
 Herramientas:
 - Git & GitHub, VS Code
