@@ -1,14 +1,11 @@
-### ¡Hola! Soy Micaela, desarrolladora frontend.
----
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Habilidades
 
 **Frontend:**
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js
 - Next.js
-- Firebase
-
+  
 **Herramientas:**
 - Git & GitHub, VS Code
 ---
