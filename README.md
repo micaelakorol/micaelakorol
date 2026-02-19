@@ -5,8 +5,6 @@ Mis Habilidades:
 - React.js
 - Next.js
 - Firebase
-- Python
-- SQL
   
 Herramientas:
 - Git & GitHub, VS Code
